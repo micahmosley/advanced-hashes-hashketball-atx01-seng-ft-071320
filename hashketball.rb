@@ -179,6 +179,7 @@ def player_numbers(team)
     
   end 
 end 
+<<<<<<< HEAD
 
 def player_stats(name)
   info=game_hash
@@ -207,3 +208,5 @@ def big_shoe_rebounds
     end 
   end 
 end 
+=======
+>>>>>>> 1830eed03992acda027acd2301976498544ff1c8
